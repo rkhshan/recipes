@@ -1,7 +1,7 @@
-Ingredients.
-2 slices bread
+## Ingredients.
+* 2 slices bread
 
-Steps.
+## Steps.
 1. Put bread in toaster
 2. Set temp to “Stun”
 3. Press down
