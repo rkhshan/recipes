@@ -5,8 +5,8 @@ Collection of class favorite recipes, cocktails, and appetizers
 
 ## Suggestions for Contributing
 
-* Cocktails :+1:
-* Desserts :cake:
+* Cocktails
+* Desserts
 * Entrees
 
 ## Pattern for files
