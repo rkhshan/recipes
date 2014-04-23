@@ -8,7 +8,6 @@ Collection of class favorite recipes, cocktails, and appetizers
 * Cocktails :+1:
 * Desserts :cake:
 * Entrees
-* 
 
 ## Pattern for files
 
