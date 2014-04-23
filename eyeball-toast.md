@@ -8,7 +8,7 @@
 * one large egg
 * 1 Tablespoon Olive Oil
 
-### Preperation
+### Preparation
 * Heat a pan on a medium-low setting
 * While pan is heating, use a small cup with 2-2.5" diameter cup to cut a whole out of the center of the bread
 * When pan is hot, carefully pour olive oil into the pan
