@@ -1,1 +1,8 @@
-Put bread in toaster, press down, wait.
+Ingredients.
+2 slices bread
+
+Steps.
+1. Put bread in toaster
+2. Set temp to “Stun”
+3. Press down
+4. wait.
